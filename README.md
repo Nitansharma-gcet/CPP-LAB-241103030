@@ -8,7 +8,7 @@ The system demonstrates the use of OOP concepts, file handling, and logging to m
 
 Student Details
 
-Name: Nitan Sharmna 
+Name: Nitan Sharma
 Roll No: 241103030
 Course: Object Oriented Programming using C++
 Course Code: CST3301
